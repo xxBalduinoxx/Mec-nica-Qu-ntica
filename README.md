@@ -1,2 +1,2 @@
-# Mec-nica-Qu-ntica
+# Mecanica_Quantica
 Sistema de evolução temporal 
